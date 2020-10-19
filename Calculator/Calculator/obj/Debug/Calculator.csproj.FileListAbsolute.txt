@@ -1,0 +1,19 @@
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\tcmer\Desktop\Mert Akyüz\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mert Akyüz\Desktop\Mert Akyüz\My Projects\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
